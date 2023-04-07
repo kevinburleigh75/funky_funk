@@ -1,0 +1,3 @@
+this is some text
+for your new file
+and it's boring
